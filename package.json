@@ -1,5 +1,5 @@
 {
-  "name": "halley",
+  "name": "halley-framework",
   "version": "0.0.1",
   "type": "module",
   "main": "dist/halley.js",
@@ -45,7 +45,7 @@
     "ui-library"
   ],
   "author": "Daniel Melo Alencar",
-  "license": "Creative Commons Zero v1.0 Universal",
+  "license": "CC0-1.0",
   "devDependencies": {
     "@skypack/package-check": "^0.2.2",
     "codecov": "^3.8.2",
