@@ -5,6 +5,7 @@ export default Halley
 export { render } from './reconcile'
 
 export { Condition } from './Condition';
+export { Switch,Case,Default } from './Switch';
 
 export { createAppStore } from './createStore'
 export {
