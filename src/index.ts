@@ -1,8 +1,10 @@
-export { Fragment, Halley as createElement, memo } from './h'
+export { Halley, Fragment, Halley as createElement, memo } from './h'
 import { Halley } from './h';
 
 export default Halley
 export { render } from './reconcile'
+
+export { Condition } from './Condition';
 
 export { createAppStore } from './createStore'
 export {
